@@ -113,6 +113,8 @@ Every row in this dataset already has an Employment_Status value. This is import
 | 24 | Male | Mogadishu University | Business Administration | 2.7 | Low | No | Beginner | 0 | Unemployed |
 | 22 | Female | University of Somalia | Nursing | 3.3 | Medium | Yes | Intermediate | 2 | Employed |
 
+
+
 Already, a pattern starts to show. Graduates with high English proficiency, internship experience, and advanced digital skills tend to be employed. Graduates with low English, no internship, and beginner digital skills tend to be unemployed.
 
 ---
